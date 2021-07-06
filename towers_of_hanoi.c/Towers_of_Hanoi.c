@@ -106,5 +106,6 @@ int main(void)
 		}
 	}
 
+	IntScanf(); // exe 파일이 바로 종료되는 것을 방지합니다.
 	return 0;
 }
